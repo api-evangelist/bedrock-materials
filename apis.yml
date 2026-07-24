@@ -1,24 +1,72 @@
 aid: bedrock-materials
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/bedrock-materials.png
 name: Bedrock Materials
-description: 'Bedrock Materials is a company surfaced as a portfolio company of version-one-ventures and
-  added to the API Evangelist network as a stub for enrichment. Sector: deep-tech. This profile is a lead
-  awaiting the enrichment pipeline.'
+description: 'Bedrock Materials was a Chicago-based deep-tech startup founded in 2023 by Spencer Gore (CEO,
+  previously Tesla and Enovix) and Rafael Vila (CTO, Stanford battery scientist) to manufacture engineered
+  sodium-ion cathode active materials as a low-cost, easy-to-source alternative to lithium-ion — built from
+  abundant sodium, manganese, iron and aluminum, and designed to drop into existing lithium-ion cell manufacturing
+  lines for low-voltage, starter-lighting-ignition, micromobility and industrial-traction applications. It
+  raised a $9M seed round led by Trucks Venture Capital with Refactor Capital and Version One Ventures. In
+  April 2025 the company wound down and returned the majority of that seed capital to its investors: CEO
+  Spencer Gore concluded that sodium-ion could not be produced cheaply enough to beat lithium iron phosphate
+  (LFP) after lithium oversupply collapsed prices, and that energy-density gains carried steep trade-offs.
+  Bedrock Materials was a materials-science manufacturer and never operated a developer program, public API,
+  or developer portal; both bedrockmaterials.com and its former bedrock.inc website are now parked/for-sale
+  domains with no company content. This profile is retained as a verified-defunct record in the API Evangelist
+  network — there is no API surface to enrich.'
 url: https://raw.githubusercontent.com/api-evangelist/bedrock-materials/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - version-one-ventures
+- trucks-venture-capital
+- refactor-capital
 x-tier: stub
-x-tier-reason: portfolio-lead
+x-tier-reason: defunct-no-api-surface
+x-status: defunct
+x-defunct-date: '2025-04'
+x-defunct-note: Wound down and returned the majority of its $9M seed funding to investors; sodium-ion could
+  not compete on cost with lithium iron phosphate.
+x-defunct-sources:
+- https://heatmap.news/climate-tech/bedrock-materials-sodium-ion
+- https://www.axios.com/pro/climate-deals/2025/04/07/bedrock-materials-stops-batteries
+- https://sodiumbatteryhub.com/2025/04/10/us-sodium-ion-battery-start-up-bedrock-materials-shuts-down/
+x-former-website: https://bedrock.inc/
+x-founded: '2023'
+x-headquarters: Chicago, Illinois, United States
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
 - Deep Tech
+- Batteries
+- Energy Storage
+- Materials Science
+- Sodium-Ion
+- Defunct
 apis: []
+common: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-20'
+  status: nochange
+  artifacts_added: 0
+  pass: local-v1
+  note: Searched and probed; company verified defunct (April 2025) with no API, docs, developer portal or
+    live web presence. No artifacts are derivable without fabrication.
