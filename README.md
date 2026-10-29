@@ -64,6 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Bedrock Materials is a company surfaced as a portfolio company of version-one-ventures and added to the API Evangelist network as a stub for enrichment. Sector: deep-tech. This profile is a lead awaiting the enrichment pipeline.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: version-one-ventures
+Bedrock Materials was a Chicago-based deep-tech startup founded in 2023 by Spencer Gore (CEO, previously Tesla and Enovix) and Rafael Vila (CTO, Stanford battery scientist) to manufacture engineered sodium-ion cathode active materials as a low-cost, easy-to-source alternative to lithium-ion — built from abundant sodium, manganese, iron and aluminum, and designed to drop into existing lithium-ion cell manufacturing lines for low-voltage, starter-lighting-ignition, micromobility and industrial-traction applications. It raised a $9M seed round led by Trucks Venture Capital with Refactor Capital and Version One Ventures. In April 2025 the company wound down and returned the majority of that seed capital to its investors: CEO Spencer Gore concluded that sodium-ion could not be produced cheaply enough to beat lithium iron phosphate (LFP) after lithium oversupply collapsed prices, and that energy-density gains carried steep trade-offs. Bedrock Materials was a materials-science manufacturer and never operated a developer program, public API, or developer portal; both bedrockmaterials.com and its former bedrock.inc website are now parked/for-sale domains with no company content. This profile is retained as a verified-defunct record in the API Evangelist network — there is no API surface to enrich.
+
+**Areas:** Company · Deep Tech · Batteries · Energy Storage · Materials Science · Sodium-Ion · Defunct
+
+## Bedrock Materials on APIs.io (historical record)
+
+Everything profiled for Bedrock Materials is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/bedrock-materials/](https://apis.io/providers/bedrock-materials/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Bedrock Materials: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/bedrock-materials/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
